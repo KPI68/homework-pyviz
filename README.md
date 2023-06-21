@@ -11,11 +11,11 @@ In this work we analyze a dataset of San Fransisco Neighborhoods Housing data fr
 
 Our dataset have 2 files:
 
-* [`neighbourhoods_coordinates` CSV File](Resources/neighbourhoods_coordinates.csv)
+* [`neighbourhoods_coordinates` CSV File](Resources/neighborhoods_coordinates.csv)
 
 Contains neighborhoods' longitude and latitude cordination
 
-* [`sfo_neighbourhoods_census_data` CSV File](Resources/sfo_neighbourhoods_census_data.csv)
+* [`sfo_neighbourhoods_census_data` CSV File](Resources/sfo_neighborhoods_census_data.csv)
 
 Contains year 2010-2016, neighborhood, sale-price-per-square-foot, gross-rental, and unit numbers
 
